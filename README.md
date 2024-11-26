@@ -19,11 +19,6 @@
 
 ### :man_technologist: About Me:
 
-- I am a novice frontend developer. My main education is criminalist:male_detective:.
-Development is my hobby, which I do in my free time. 
-Here I will post my projects and at the same time improve myself in this direction. 
-My goal is to become a professional in a new field and try my hand at real projects.
-
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
