@@ -5,7 +5,7 @@
   <a href="https://mail.google.com/mail/u/2/#inbox">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="#">
+  <a href="https://t.me/Kapitan_BongoBongo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
